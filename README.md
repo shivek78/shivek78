@@ -3,14 +3,14 @@
 👋 Hi, I'm Shivek Yadav! I'm interested in web development, programming, and artificial intelligence.
 
 ## Projects
- docmate
- protfolio
- easy4math
- ambulannce booking
- bbc news
- amazone clone
- myntra clone
- website 1
+ docmate,
+ protfolio,
+ easy4math,
+ ambulannce booking,
+ bbc news,
+ amazone clone,
+ myntra clone,
+ website 1,
  
   
 
