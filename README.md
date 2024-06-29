@@ -3,11 +3,17 @@
 👋 Hi, I'm Shivek Yadav! I'm interested in web development, programming, and artificial intelligence.
 
 ## Projects
-docmate
+ docmate
+ protfolio
+ easy4math
+ ambulannce booking
+ bbc news
+ amazone clone
+ myntra clone
+ website 1
+ 
   
 
-### Cascading Style Sheets (CSS)
-- Cascading Style Sheets (CSS) is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as HTML or XML.
 
 ## How to Reach Me
 - Instagram: @shivek_ydv
