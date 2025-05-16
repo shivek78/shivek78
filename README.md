@@ -87,15 +87,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivek78&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-## 🐍 Contribution Snake
 
+---
+
+
+## 🐍 Contribution Snake
 ![snake gif](https://github.com/shivek78/shivek78/blob/output/github-snake-dark.svg)
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/shivek78/shivek78/blob/output/github-contribution-grid-snake.gif)
-
-
+---
 
 ### ✍️ Quote of the Day
 
@@ -104,7 +104,6 @@
 </p>
 
 
-<br><br><br>
 
   
 </p>
