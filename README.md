@@ -74,11 +74,7 @@
 
 ---
 
-### 🧱 3D Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/blob/main/example-graph.svg" alt="3D Contributions" />
-</p>
 
 ## 📊 GitHub Stats:
 
@@ -89,17 +85,17 @@
 </p>
 
 ---
-
-### ✍️ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivek78&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+### ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 ### ⌛ Weekly Development Breakdown
 
