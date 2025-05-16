@@ -91,7 +91,8 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/shivek78/shivek78/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shivek78/shivek78/blob/output/github-contribution-grid-snake.gif)
+
 
 
 ### ✍️ Quote of the Day
