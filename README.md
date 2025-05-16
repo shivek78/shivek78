@@ -1,18 +1,18 @@
-<h1 align="center"><b><big>Hi 👋, I'm Shivek Yadav</h1>
+<h1 align="center"><b><big>Hi 👋, I'm Shivek Yadav</big></b></h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivek78&label=Profile%20views&color=0e75b6&style=flat" alt="shivek78" />
 </p>
-<p>
 
 ---
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shivek78&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
-<br><br>
+
 
 <p align="center">
   <a href="https://twitter.com/shivek_ydv" target="_blank">
