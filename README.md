@@ -89,6 +89,8 @@
 </p>
 ## 🐍 Contribution Snake
 
+![snake gif](https://github.com/shivek78/shivek78/blob/output/github-snake-dark.svg)
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/shivek78/shivek78/blob/output/github-contribution-grid-snake.gif)
