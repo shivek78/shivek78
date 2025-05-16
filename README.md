@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shivek Yadav</h1>
+<h1 align="center"><b><big>Hi 👋, I'm Shivek Yadav</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivek78&label=Profile%20views&color=0e75b6&style=flat" alt="shivek78" />
 </p>
+<p>
 
+---
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shivek78&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
+<br><br>
 
 <p align="center">
   <a href="https://twitter.com/shivek_ydv" target="_blank">
@@ -67,25 +70,19 @@
 
 ---
 
-
-
-## 📊 GitHub Stats:
+📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivek78&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek78&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivek78&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivek78&theme=dark&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek78&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivek78&layout=compact&theme=dark" />
-</p>
 
 ---
+
 ### 📈 Contribution Graph
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivek78&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
@@ -104,39 +101,60 @@
 </p>
 
 
+<br><br><br>
 
-⌛ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-  <img src="https://visitcount.itsvg.in/api?id=shivek78&label=Profile%20Views&color=0&icon=5&pretty=true" />
   
 </p>
-🚀 Featured Projects
+<b><big>🚀 Featured Projects</big></b>
+
+---
+
 
 [![DocMate](https://img.shields.io/badge/DocMate-MERN%20App-blue?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Docmate)
 
+---
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Portfolio)
+
+---
+
 
 [![Easy4Math](https://img.shields.io/badge/Easy4Math-React%20App-yellow?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Easy4Math)
 
+---
+
+
 [![AmbulanceBooking](https://img.shields.io/badge/AmbulanceBooking-MERN%20App-red?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/AmbulanceBooking)
+
+---
+
 
 [![BBCNews](https://img.shields.io/badge/BBCNews-News%20App-orange?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/BBCNews)
 
+---
+
+
 [![AmazonClone](https://img.shields.io/badge/AmazonClone-Ecommerce%20App-blueviolet?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/AmazonClone)
+
+---
+
 
 [![MyntraClone](https://img.shields.io/badge/MyntraClone-Ecommerce%20App-purple?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/MyntraClone)
 
+---
+
+
 [![Website1](https://img.shields.io/badge/Website1-Personal%20Site-lightgrey?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Website1)
 
+---
 
 
 <h3 align="center">🤝 Let's Connect!</h3>
 <p align="center">
   <a href="mailto:shivek.yadav@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+
+---  
 
 
 
