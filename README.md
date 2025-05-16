@@ -89,13 +89,17 @@
 </p>
 
 ---
-
+<div align="center">
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/shivek78/shivek78/blob/output/github-snake-dark.svg)
 
 
 ---
+  
+</div>
+
+
 
 ### ✍️ Quote of the Day
 
@@ -105,7 +109,7 @@
 
 
 
-  
+  <div align="center">
 </p>
 <b><big>🚀 Featured Projects</big></b>
 
@@ -150,7 +154,7 @@
 [![Website1](https://img.shields.io/badge/Website1-Personal%20Site-lightgrey?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Website1)
 
 ---
-
+</div>
 
 <h3 align="center">🤝 Let's Connect!</h3>
 <p align="center">
