@@ -92,7 +92,10 @@
 </p>
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 ![snake gif](https://github.com/shivek78/shivek78/blob/output/github-contribution-grid-snake.svg)
+
 
 ### ✍️ Quote of the Day
 
@@ -111,6 +114,7 @@
   
 </p>
 🚀 Featured Projects
+
 [![DocMate](https://img.shields.io/badge/DocMate-MERN%20App-blue?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Docmate)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Portfolio)
