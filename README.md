@@ -76,6 +76,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek78&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivek78&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivek78&theme=dark&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek78&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivek78&layout=compact&theme=dark" />
+</p>
 
 ---
 ### 📈 Contribution Graph
@@ -83,6 +90,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivek78&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/shivek78/shivek78/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Quote of the Day
 
 <p align="center">
@@ -99,7 +110,7 @@
   <img src="https://visitcount.itsvg.in/api?id=shivek78&label=Profile%20Views&color=0&icon=5&pretty=true" />
   
 </p>
-### 🚀 Featured Projects
+🚀 Featured Projects
 [![DocMate](https://img.shields.io/badge/DocMate-MERN%20App-blue?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Docmate)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Portfolio)
@@ -117,14 +128,11 @@
 [![Website1](https://img.shields.io/badge/Website1-Personal%20Site-lightgrey?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Website1)
 
 
+
 <h3 align="center">🤝 Let's Connect!</h3>
 <p align="center">
   <a href="mailto:shivek.yadav@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  <a href="https://linkedin.com/in/shivek-yadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-  <a href="https://twitter.com/shivek_ydv"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
 
 
 
