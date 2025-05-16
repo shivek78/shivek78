@@ -109,52 +109,94 @@
 
 
 
-  <div align="center">
-</p>
-<b><big>🚀 Featured Projects</big></b>
-
----
-
-
-[![DocMate](https://img.shields.io/badge/DocMate-MERN%20App-blue?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Docmate)
-
----
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Portfolio)
-
----
-
-
-[![Easy4Math](https://img.shields.io/badge/Easy4Math-React%20App-yellow?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Easy4Math)
-
----
-
-
-[![AmbulanceBooking](https://img.shields.io/badge/AmbulanceBooking-MERN%20App-red?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/AmbulanceBooking)
-
----
-
-
-[![BBCNews](https://img.shields.io/badge/BBCNews-News%20App-orange?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/BBCNews)
-
----
-
-
-[![AmazonClone](https://img.shields.io/badge/AmazonClone-Ecommerce%20App-blueviolet?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/AmazonClone)
-
----
-
-
-[![MyntraClone](https://img.shields.io/badge/MyntraClone-Ecommerce%20App-purple?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/MyntraClone)
-
----
-
-
-[![Website1](https://img.shields.io/badge/Website1-Personal%20Site-lightgrey?style=for-the-badge&logo=appveyor)](https://github.com/shivek78/Website1)
-
----
+ <div align="center">
+  <h2>🚀 Featured Projects</h2>
+  <hr />
+  <table border="1" cellspacing="0" cellpadding="10" width="90%">
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>DocMate</b></td>
+        <td>A MERN-based appointment booking and document management platform.</td>
+        <td>
+          <a href="https://github.com/shivek78/Docmate">
+            <img src="https://img.shields.io/badge/DocMate-MERN%20App-blue?style=for-the-badge&logo=appveyor" alt="DocMate" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>Portfolio</b></td>
+        <td>A personal portfolio website to showcase my skills and projects.</td>
+        <td>
+          <a href="https://github.com/shivek78/Portfolio">
+            <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=appveyor" alt="Portfolio" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>Easy4Math</b></td>
+        <td>A React-based educational app to simplify math concepts.</td>
+        <td>
+          <a href="https://github.com/shivek78/Easy4Math">
+            <img src="https://img.shields.io/badge/Easy4Math-React%20App-yellow?style=for-the-badge&logo=appveyor" alt="Easy4Math" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>AmbulanceBooking</b></td>
+        <td>An emergency ambulance booking system built using the MERN stack.</td>
+        <td>
+          <a href="https://github.com/shivek78/AmbulanceBooking">
+            <img src="https://img.shields.io/badge/AmbulanceBooking-MERN%20App-red?style=for-the-badge&logo=appveyor" alt="AmbulanceBooking" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>BBCNews</b></td>
+        <td>A news web app that fetches and displays latest headlines.</td>
+        <td>
+          <a href="https://github.com/shivek78/BBCNews">
+            <img src="https://img.shields.io/badge/BBCNews-News%20App-orange?style=for-the-badge&logo=appveyor" alt="BBCNews" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>AmazonClone</b></td>
+        <td>A clone of Amazon eCommerce site with UI and cart functionality.</td>
+        <td>
+          <a href="https://github.com/shivek78/AmazonClone">
+            <img src="https://img.shields.io/badge/AmazonClone-Ecommerce%20App-blueviolet?style=for-the-badge&logo=appveyor" alt="AmazonClone" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>MyntraClone</b></td>
+        <td>A replica of Myntra online shopping platform UI using React.</td>
+        <td>
+          <a href="https://github.com/shivek78/MyntraClone">
+            <img src="https://img.shields.io/badge/MyntraClone-Ecommerce%20App-purple?style=for-the-badge&logo=appveyor" alt="MyntraClone" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><b>Website1</b></td>
+        <td>A simple personal static site with basic layout and design.</td>
+        <td>
+          <a href="https://github.com/shivek78/Website1">
+            <img src="https://img.shields.io/badge/Website1-Personal%20Site-lightgrey?style=for-the-badge&logo=appveyor" alt="Website1" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 <h3 align="center">🤝 Let's Connect!</h3>
 <p align="center">
