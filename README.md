@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Shivek Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer;React+Lover;MERN+Stack+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer;" alt="Typing SVG" />
 </p>
 
 ---
