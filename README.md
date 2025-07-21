@@ -48,14 +48,13 @@
 
 ---
 
-<h1 align="center">📈 GitHub Stats</h1>
+📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivek78&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek78&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivek78&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivek78&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek78&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivek78&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
-
 ---
 
 <h1 align="center">📜 Quote of the Day</h1>
