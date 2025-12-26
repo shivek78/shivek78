@@ -11,7 +11,7 @@
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm Shivek Yadav</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=435&lines=Full+Stcak+Developer;" alt="Typing SVG" />
 </p>
 
 <!-- Fancy GIF Separator -->
@@ -33,7 +33,7 @@
 <!-- About Me -->
 <h2 align="center">🙋‍♂️ About Me</h2>
 <ul>
-  <li>💻 I'm a passionate <strong>Frontend Developer</strong> from India 🇮🇳</li>
+  <li>💻 I'm a passionate <strong>Full Stack Developer</strong> from India 🇮🇳</li>
   <li>🌱 Currently mastering <strong>MERN Stack</strong> development</li>
   <li>🛠️ Exploring <strong>Node.js, Firebase, and Cloud Deployment</strong></li>
   <li>🧠 I love building <strong>real-world clones</strong> to sharpen my skills</li>
@@ -85,11 +85,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivek78&theme=xcode" />
 </p>
 
-<!-- Snake Contribution -->
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/shivek78/shivek78/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <!-- Quote of the Day -->
 <h2 align="center">📜 Quote of the Day</h2>
