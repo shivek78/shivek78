@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shivek78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shivek-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
@@ -27,21 +27,22 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivek78&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek78&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivek-yadav&show_icons=true&theme=radical&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivek-yadav&theme=radical" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivek78&theme=xcode" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivek-yadav&theme=xcode" width="100%" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/shivek-yadav"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
   <a href="https://twitter.com/shivek_ydv"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
-  <a href="https://instagram.com/shivek_ydv"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
+  <a href="https://instagram.com/shivek.js"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
+  <a href="https://github.com/shivek-yadav"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
   <a href="mailto:shivekyadav0786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
 </p>
 
